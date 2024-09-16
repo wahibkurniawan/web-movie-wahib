@@ -311,7 +311,7 @@ export default function App() {
 
       <footer className="bg-gray-950 text-gray-200 mt-8 py-6">
         <div className="container mx-auto text-center">
-          &copy; 2024 Wahib Kurniawan. All rights reserved.
+          &copy; 2024 Wahib Kurniawan. All rights reserved
         </div>
       </footer>
     </div>
