@@ -1,0 +1,30 @@
+#root {
+  max-width: 100wh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #000000;
+  box-sizing: border-box;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Heading untuk website film */
+h1, h2, h3 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+
+/* Body text */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
